@@ -1,5 +1,5 @@
-name="bryan"
-def myfunc():
-    print("His name is "+name)
+name="bryan" #declaring a variable name with value bryan
+def myfunc():   #declaring the function
+    print("His name is "+name)  #performing concatenation to combine the value with the function description
 
-myfunc()
+myfunc()   #calling the function
